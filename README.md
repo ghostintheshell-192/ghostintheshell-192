@@ -1,6 +1,3 @@
-## 👋 Currently Studying...
-
-[![roadmap.sh](https://roadmap.sh/card/tall/667c0189c19525099e853c61?variant=dark&roadmaps=cpp)](https://roadmap.sh)
 <!--
 **ghostintheshell-192/ghostintheshell-192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
